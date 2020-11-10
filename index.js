@@ -48,7 +48,7 @@ bot.on("message", async message => {
                     footer: {	
                         icon_url:	
                             "https://cdn.discordapp.com/avatars/530778425540083723/7a05e4dd16825d47b6cdfb02b92d26a5.png",	
-                        text: "Buy discord bots from Silvano#1337"	
+                        text: "Gen"	
                     },	
                     thumbnail: {	
                         url:	
@@ -233,4 +233,4 @@ if(command === "help") {
 }	
 })	
 
-bot.login(TOKEN);	
+bot.login(Nzc1NjE3MzA5NjIwNDM3MDAy.X6o76A.TwolA3QxxJK1sEaRs5aXqncPJc8);	
